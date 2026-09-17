@@ -51,12 +51,12 @@ namespace TeamQuizApp
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //answerButton_Click(sender, e);
+            answerButton_Click(sender, e);
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-           // answerButton_Click(sender, e);
+            answerButton_Click(sender, e);
         }
 
         private void button4_Click(object sender, EventArgs e)
